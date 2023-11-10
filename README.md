@@ -3,7 +3,7 @@ auto nodejs subtitle translate app, easy and fast.
 
 ## System requirements
 To get started, you must first install `nodejs` on your system. A package manager like `npm` is also required.
-- [nosejs](https://nodejs.org)
+- [nodejs](https://nodejs.org)
 - [npm](https://www.npmjs.com)
 
 
