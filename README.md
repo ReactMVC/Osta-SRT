@@ -48,7 +48,6 @@ For any queries or suggestions, you can reach out to the developer:
 - Name: Hossein Pira
 - Email: h3dev.pira@gmail.com
 - Telegram: [@h3dev](https://t.me/h3dev)
-- Powered by [YouTube-Node](https://github.com/ReactMVC/YouTube-Node)
 
 ## License
 
