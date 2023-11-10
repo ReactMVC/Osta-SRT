@@ -1,0 +1,20 @@
+{
+  "name": "ostasrt",
+  "version": "1.0.0",
+  "description": "auto translate srt files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": {
+    "ostasrt": "./bin/index.js"
+  },
+  "type": "module",
+  "author": "Hossein Pira",
+  "license": "MIT",
+  "dependencies": {
+    "@iamtraction/google-translate": "^2.0.1",
+    "inquirer": "^9.2.12",
+    "subsrt": "^1.1.1"
+  }
+}
