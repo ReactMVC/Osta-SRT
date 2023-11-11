@@ -5,6 +5,7 @@ auto nodejs subtitle translate app, easy and fast.
 To get started, you must first install `nodejs` on your system. A package manager like `npm` is also required.
 - [nodejs](https://nodejs.org)
 - [npm](https://www.npmjs.com)
+- [git](https://git-scm.com)
 
 
 ## Installation
@@ -38,7 +39,7 @@ npm i -g .
 5. Start app
 
 ```bash
-ostasrt
+srt
 ```
 
 ## Developer Contact
