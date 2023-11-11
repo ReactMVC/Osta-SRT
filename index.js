@@ -4,6 +4,7 @@ import subsrt from 'subsrt';
 import inquirer from 'inquirer';
 
 export const startApp = async () => {
+  console.log('OstaSRT v1.1.0');
   console.log('Welcome to the Subtitle Translator App!');
 
   const { subtitlePath, outputPath, fromLang, toLang } = await inquirer.prompt([
