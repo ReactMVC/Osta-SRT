@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "bin": {
-    "ostasrt": "./bin/index.js"
+    "srt": "./bin/index.js"
   },
   "type": "module",
   "author": "Hossein Pira",
